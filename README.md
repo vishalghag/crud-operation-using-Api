@@ -1,2 +1,2 @@
 # crud-operation-using-Api
-Crud Operation using api and Parcel bundler
+It not just a regular crud operation it has React Query has a replacement of UseEffect and Parcel has bundler 
